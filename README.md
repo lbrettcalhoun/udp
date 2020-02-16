@@ -1,2 +1,2 @@
 # udp
-Example of UDP server on ESP8266
+Example of UDP datagram send on ESP8266
